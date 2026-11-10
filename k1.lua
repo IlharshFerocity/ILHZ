@@ -11010,7 +11010,7 @@ local Rejoin = {
     World = true,       -- masuk lagi kalau terlempar dari world
     Server = true,      -- rejoin kalau disconnect dari server
     DelaySec = 5,
-    ScriptUrl = "",
+    ScriptUrl = "https://raw.githubusercontent.com/IlharshFerocity/ILHZ/refs/heads/main/k1.lua",
     Keep = false,       -- selalu kembali ke world tujuan kalau berada di luar world
     Target = "",        -- world tujuan (kosong = world terakhir)
     LastWorld = "",     -- world terakhir yang dimasuki
